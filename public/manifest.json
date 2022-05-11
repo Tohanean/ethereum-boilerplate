@@ -1,6 +1,6 @@
 {
-  "short_name": "Ethereum Boilerplate",
-  "name": "Ethereum Boilerplate",
+  "short_name": "LV Explorer",
+  "name": "LV Wallet Explorer",
   "icons": [
     {
       "src": "favicon.ico",
@@ -8,14 +8,14 @@
       "type": "image/x-icon"
     },
     {
-      "src": "android-chrome-192x192.png",
-      "type": "image/png",
+      "src": "https://pbs.twimg.com/profile_images/1492505646415163404/xIRQSVV__400x400.jpg",
+      "type": "image/jpg",
       "sizes": "192x192",
       "purpose": "any maskable"
     },
     {
-      "src": "android-chrome-512x512.png",
-      "type": "image/png",
+      "src": "https://pbs.twimg.com/profile_images/1492505646415163404/xIRQSVV__400x400.jpg",
+      "type": "image/jpg",
       "sizes": "512x512"
     }
   ],

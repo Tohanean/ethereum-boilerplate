@@ -174,7 +174,11 @@ const App = ({ isServerInfo }) => {
 
 export const Logo = () => (
   <div style={{ display: "flex" }}>
-    <img src ="https://2-crypto.s3.amazonaws.com/legion/logo.png" width="200" height="100"></img>
+    <img
+      src="https://2-crypto.s3.amazonaws.com/legion/logo.png"
+      width="200"
+      height="100"
+    ></img>
   </div>
 );
 
